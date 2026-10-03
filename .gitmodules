@@ -1,0 +1,3 @@
+[submodule "vendor/A2A_Flow_Matching"]
+	path = vendor/A2A_Flow_Matching
+	url = https://github.com/JIAjindou/A2A_Flow_Matching.git

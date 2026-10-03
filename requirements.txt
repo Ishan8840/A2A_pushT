@@ -1,0 +1,16 @@
+# Install PyTorch from the cu128 index first (see README).
+torch==2.11.0
+torchvision==0.26.0
+numpy==1.26.4
+zarr==2.18.7
+numcodecs==0.15.1
+omegaconf==2.3.0
+torchcfm==1.0.7
+gym-pusht==0.1.6
+# gym-pusht uses the Pymunk 6 API; its published dependency is too broad.
+pymunk==6.11.1
+huggingface-hub==1.33.0
+pyarrow==23.0.1
+av==16.1.0
+einops==0.8.2
+pytest==8.4.2
